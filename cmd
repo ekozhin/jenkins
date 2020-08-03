@@ -1,4 +1,0 @@
-node {
-    ls -la
-}
-#test
