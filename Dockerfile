@@ -1,2 +1,2 @@
-FROM ubuntu:18.04
+FROM ekozhin/ubuntu:my
 RUN apt update && apt -y upgrade
